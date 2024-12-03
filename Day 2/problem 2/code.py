@@ -1,7 +1,7 @@
 mainList = []
 
 sum = 0
-with open('Day 2/problem 1/input.txt', 'r') as file:
+with open('Day 2/problem 2/input.txt', 'r') as file:
     for line in file:
         tempList = []
         for num in line.strip().split():
